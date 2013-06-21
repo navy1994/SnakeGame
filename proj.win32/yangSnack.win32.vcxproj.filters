@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{b2e385a6-f366-4152-bda3-ffa898f31ea1}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{a0d902bc-72c0-40cc-9856-16a1d3fb009e}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc</Extensions>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{7a048d85-a8b9-4dc1-8050-03628fc7d3bb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;jpg;jpeg;jpe;png;manifest</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\yangSnack.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\CloseSelected.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\CloseNormal.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\HelloWorld.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\Cheer.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\down.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\down1.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\aboutA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\aboutB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\AIEat.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\backA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\backB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\backtomenuA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\backtomenuB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\game.wma">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\GameOver.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gameoverA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\gameoverB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\grid.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\head.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\left.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\left1.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\leftWelcome.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\Eat.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\food.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\settingA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\settingB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\shu.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snackbg1.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snackbg2.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\sound-off-A.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\sound-off-B.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\sound-on-A.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\sound-on-B.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\tail.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\up.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\up1.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\wall.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\newgameA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\newgameB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\right.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\right1.jpg">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\score.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\select.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\set.wav">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\contrB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\contrA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\background.mp3">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\startA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\startB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\stopA.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\stopB.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snack.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snack.tps">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snack-hd.plist">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snack-hd.png">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\snack.plist">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="..\Resources\menubg2.png">
+      <Filter>resource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="yangSnack.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GreedySnack.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GreedySnack.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="resource.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
